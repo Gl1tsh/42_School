@@ -41,7 +41,7 @@
         <td><a href="https://github.com/Gl1tsh/Libft">LIBFT</a></td>
         <td>re-implementations of basics C libraries functions</td>
         <td>C</td>
-        <td>✔</td>
+        <td style="color: green;">✔</td>
       </tr>
       <tr>
         <td>2</td>
