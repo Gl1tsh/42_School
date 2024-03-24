@@ -1,20 +1,138 @@
-# 42 cursus Lausanne
+<!-- ===== Title ===== -->
+<div align="center">
+  <h1>42 cursus Lausanne</h1>
+</div>
+<!-- ===== Title end ===== -->
 
-| Circle | Project                                                                             | Description                                                                                 |  Tech  | Status |
-| :----: | :---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | :----: | :----: |
-|   1    | [**LIBFT**](https://github.com/Gl1tsh/Libft)                                        | re-implementations of basics C libraries functions                                          |   C    |   ✔    |
-|   2    | [**FT_PRINTF**](https://github.com/Gl1tsh/ft_printf)                                | re-implementations of the printf C function                                                 |   C    |   ✔    |
-|   3    | [**GET_NEXT_LINE**](https://github.com/Gl1tsh/Get_Next_Line)                        | reading files line by line                                                                  |   C    |   ✔    |
-|   4    | [**PIPEX**](https://github.com/Gl1tsh/pipex)                                        | reproduce the behavior of this bash function <br/>`cmd1 < input_file \| cdm2 > output file` |   C    |   ✔    |
-|   5    | [**SO_LONG**](https://github.com/Gl1tsh/so_long_memory)                             | 2D game                                                                                     |   C    |   ✔    |
-|   6    | [**MINISHELL**](https://github.com/Gl1tsh/my_minishell)                             | re-implement a simplified version of bash                                                   |   C    |   ✔    |
-|   7    | [**PHILOSOPHERS**](https://github.com/Gl1tsh/philosophers)                          | introduce the concept of multi-threading                                                    |   C    |   ✔    |
-|   8    | [**CUB3D**](https://github.com/Gl1tsh/cube3D)  -> in progress                       | Wolfenstein game, based on a raycasting algo !                                              |   C    |   X    |
-|   8    | [**NET_PRACTICE**](Not started)                                                     | IP management                                                                               |   IP   |   X    |
-|   9    | [**PISCINE CPP**](Not started)                                                      | basics of c++ 00 to 09                                                                      |  C++   |   X    |
-|   10   | [**INCEPTION**](Not started)                                                        | Setting up a wordpress server with docker-compose                                           | Docker |   X    |
-|   11   | [**WEBSERV**](Not started)                                                          | Implementetion of a web server in C++ 98                                                    |  C++   |   X    |
-|   12   | [**TRANSCENDENCE**](Not started)                                                    | Web App with the Pong game                                                                  |  Web   |   X    |
 
+
+
+
+<!-- ===== Cover picture ===== -->
+<p align="center">
+ <img src="git_utils/OIG3.CWKD1.png" alt="logo" style="width: 60%">
+</p>
+<!-- ===== Cover picture end ===== -->
+
+
+
+
+<!-- ===== Index ===== -->
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Circle</th>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Tech</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><a href="https://github.com/Gl1tsh/Libft">LIBFT</a></td>
+        <td>re-implementations of basics C libraries functions</td>
+        <td>C</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td><a href="https://github.com/Gl1tsh/ft_printf">FT_PRINTF</a></td>
+        <td>re-implementations of the printf C function</td>
+        <td>C</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td><a href="https://github.com/Gl1tsh/Get_Next_Line">GET_NEXT_LINE</a></td>
+        <td>reading files line by line</td>
+        <td>C</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td><a href="https://github.com/Gl1tsh/pipex">PIPEX</a></td>
+        <td>reproduce the behavior of this bash function <br/>`cmd1 < input_file \| cdm2 > output file`</td>
+        <td>C</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td><a href="https://github.com/Gl1tsh/so_long_memory">SO_LONG</a></td>
+        <td>2D game</td>
+        <td>C</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td><a href="https://github.com/Gl1tsh/my_minishell">MINISHELL</a></td>
+        <td>re-implement a simplified version of bash</td>
+        <td>C</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td><a href="https://github.com/Gl1tsh/philosophers">PHILOSOPHERS</a></td>
+        <td>introduce the concept of multi-threading</td>
+        <td>C</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td><a href="https://github.com/Gl1tsh/cube3D">CUB3D</a> -> in progress</td>
+        <td>Wolfenstein game, based on a raycasting algo !</td>
+        <td>C</td>
+        <td>X</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>NET_PRACTICE</td>
+        <td>IP management</td>
+        <td>IP</td>
+        <td>X</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>PISCINE CPP</td>
+        <td>basics of c++ 00 to 09</td>
+        <td>C++</td>
+        <td>X</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>INCEPTION</td>
+        <td>Setting up a wordpress server with docker-compose</td>
+        <td>Docker</td>
+        <td>X</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>WEBSERV</td>
+        <td>Implementetion of a web server in C++ 98</td>
+        <td>C++</td>
+        <td>X</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td>TRANSCENDENCE</td>
+        <td>Web App with the Pong game</td>
+        <td>Web</td>
+        <td>X</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<!-- ===== Index end ===== -->
+
+<br>
+
+---
+
+<br>
+
+<!-- ===== More informations ===== -->
 42 School is all about peer to peer learning. You know nothing of C when you begin.
 When you leave, you not just know the basics of C, C++, Docker and Js, you know how learn more.
+<!-- ===== More informations end ===== -->
