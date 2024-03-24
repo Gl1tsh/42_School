@@ -130,13 +130,64 @@
     </tbody>
   </table>
 </div>
+
 <!-- ===== Index end ===== -->
 
-<br>
 
----
 
-<br>
+<!-- ===== EXAM index title ===== -->
+<div align="center">
+  <h2>EXAM Index project </h2>
+</div>
+<!-- ===== EXAM index title end ===== -->
+
+
+<!-- ===== EXAM Index ===== -->
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Circle</th>
+        <th>Exam</th>
+        <th>Description</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>C Piscine</td>
+        <td>Intensive introduction to the C programming language</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Printf</td>
+        <td>Implementation of the printf function in C</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Microshell -> in progress...</td>
+        <td>Implementation of a simplified version of a shell in C</td>
+        <td>❌</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>C++ Piscine</td>
+        <td>Intensive introduction to the C++ programming language</td>
+        <td>❌</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>MiniServ</td>
+        <td>Development of a minimal web server in C++</td>
+        <td>❌</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<!-- ===== EXAM Index end ===== -->
 
 <!-- ===== More informations ===== -->
 42 School is all about peer to peer learning. You know nothing of C when you begin.
