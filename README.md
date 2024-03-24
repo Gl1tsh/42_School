@@ -15,11 +15,11 @@
 <!-- ===== Cover picture end ===== -->
 
 
-<!-- ===== Title ===== -->
+<!-- ===== index title ===== -->
 <div align="center">
-  <h1>Index</h3>
+  <h2>Index project </h2>
 </div>
-<!-- ===== Title end ===== -->
+<!-- ===== index title end ===== -->
 
 
 
