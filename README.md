@@ -15,6 +15,12 @@
 <!-- ===== Cover picture end ===== -->
 
 
+<!-- ===== Title ===== -->
+<div align="center">
+  <h1>Index</h3>
+</div>
+<!-- ===== Title end ===== -->
+
 
 
 <!-- ===== Index ===== -->
@@ -22,7 +28,7 @@
   <table>
     <thead>
       <tr>
-        <th>Circle</th>
+        <th>Index</th>
         <th>Project</th>
         <th>Description</th>
         <th>Tech</th>
@@ -84,42 +90,42 @@
         <td><a href="https://github.com/Gl1tsh/cube3D">CUB3D</a> -> in progress</td>
         <td>Wolfenstein game, based on a raycasting algo !</td>
         <td>C</td>
-        <td>X</td>
+        <td>❌</td>
       </tr>
       <tr>
         <td>9</td>
         <td>NET_PRACTICE</td>
         <td>IP management</td>
         <td>IP</td>
-        <td>X</td>
+        <td>❌</td>
       </tr>
       <tr>
         <td>10</td>
         <td>PISCINE CPP</td>
         <td>basics of c++ 00 to 09</td>
         <td>C++</td>
-        <td>X</td>
+        <td>❌</td>
       </tr>
       <tr>
         <td>11</td>
         <td>INCEPTION</td>
         <td>Setting up a wordpress server with docker-compose</td>
         <td>Docker</td>
-        <td>X</td>
+        <td>❌</td>
       </tr>
       <tr>
         <td>12</td>
         <td>WEBSERV</td>
         <td>Implementetion of a web server in C++ 98</td>
         <td>C++</td>
-        <td>X</td>
+        <td>❌</td>
       </tr>
       <tr>
         <td>13</td>
         <td>TRANSCENDENCE</td>
         <td>Web App with the Pong game</td>
         <td>Web</td>
-        <td>X</td>
+        <td>❌</td>
       </tr>
     </tbody>
   </table>
