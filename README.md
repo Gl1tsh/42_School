@@ -156,31 +156,31 @@
     <tbody>
       <tr>
         <td>1</td>
-        <td>C Piscine</td>
+        <td>C PISCINE</td>
         <td>Intensive introduction to the C programming language</td>
         <td>✔</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>Printf</td>
+        <td>PRINTF</td>
         <td>Implementation of the printf function in C</td>
         <td>✔</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>Microshell -> in progress...</td>
+        <td>MICROSHELL -> in progress...</td>
         <td>Implementation of a simplified version of a shell in C</td>
         <td>❌</td>
       </tr>
       <tr>
         <td>4</td>
-        <td>C++ Piscine</td>
+        <td>C++ PISCINE</td>
         <td>Intensive introduction to the C++ programming language</td>
         <td>❌</td>
       </tr>
       <tr>
         <td>5</td>
-        <td>MiniServ</td>
+        <td>MINISERV</td>
         <td>Development of a minimal web server in C++</td>
         <td>❌</td>
       </tr>
