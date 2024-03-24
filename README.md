@@ -15,6 +15,13 @@
 <!-- ===== Cover picture end ===== -->
 
 
+
+
+
+
+
+
+
 <!-- ===== index title ===== -->
 <div align="center">
   <h2>Index project </h2>
@@ -135,11 +142,20 @@
 
 
 
+
+
+
+
+
+
+
 <!-- ===== EXAM index title ===== -->
 <div align="center">
   <h2>EXAM Index project </h2>
 </div>
 <!-- ===== EXAM index title end ===== -->
+
+
 
 
 <!-- ===== EXAM Index ===== -->
@@ -188,3 +204,27 @@
   </table>
 </div>
 <!-- ===== EXAM Index end ===== -->
+
+
+
+
+
+
+
+
+
+<!-- ===== cursus 42 picture ===== -->
+<br>
+
+---
+
+<br>
+
+# 42 School Cursus status
+<img src="git_utils/Cursus_circle.png" alt="logo" style="width: 100%">
+<!-- ===== cursus 42 picture end ===== -->
+
+
+
+
+
