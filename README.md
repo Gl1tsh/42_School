@@ -74,7 +74,7 @@
       <tr>
         <td>6</td>
         <td><a href="https://github.com/Gl1tsh/my_minishell">MINISHELL</a></td>
-        <td>re-implement a simplified version of bash</td>
+        <td>re-implement a version of bash</td>
         <td>C</td>
         <td>✔</td>
       </tr>
