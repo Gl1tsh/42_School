@@ -188,8 +188,3 @@
   </table>
 </div>
 <!-- ===== EXAM Index end ===== -->
-
-<!-- ===== More informations ===== -->
-42 School is all about peer to peer learning. You know nothing of C when you begin.
-When you leave, you not just know the basics of C, C++, Docker and Js, you know how learn more.
-<!-- ===== More informations end ===== -->
