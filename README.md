@@ -87,10 +87,10 @@
       </tr>
       <tr>
         <td>8</td>
-        <td><a href="https://github.com/Gl1tsh/cube3D">CUB3D</a> -> in progress</td>
+        <td><a href="https://github.com/Gl1tsh/cube3D">CUB3D</a></td>
         <td>Wolfenstein game, based on a raycasting algo !</td>
         <td>C</td>
-        <td>❌</td>
+        <td>in progress</td>
       </tr>
       <tr>
         <td>9</td>
@@ -168,9 +168,9 @@
       </tr>
       <tr>
         <td>3</td>
-        <td>MICROSHELL -> in progress...</td>
+        <td>MICROSHELL</td>
         <td>Implementation of a simplified version of a shell in C</td>
-        <td>❌</td>
+        <td>in progress</td>
       </tr>
       <tr>
         <td>4</td>
