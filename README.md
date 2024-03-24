@@ -1,6 +1,6 @@
 <!-- ===== Title ===== -->
 <div align="center">
-  <h1>42 cursus Lausanne</h1>
+  <h1>42 cursus</h1>
 </div>
 <!-- ===== Title end ===== -->
 
