@@ -73,7 +73,7 @@
       </tr>
       <tr>
         <td>5</td>
-        <td>PUSH_SWAP</a></td>
+        <td><a href="https://github.com/Gl1tsh/42_School/blob/main/README.md">PUSH_SWAP</a></td>
         <td>function to sort 2 stacks of numbers</td>
         <td>C</td>
         <td>✔</td>
