@@ -73,6 +73,13 @@
       </tr>
       <tr>
         <td>5</td>
+        <td>PUSH_SWAP</a></td>
+        <td>function to sort 2 stacks of numbers</td>
+        <td>C</td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>5</td>
         <td><a href="https://github.com/Gl1tsh/so_long_memory">SO_LONG</a></td>
         <td>2D game</td>
         <td>C</td>
