@@ -111,35 +111,35 @@
         <td>NET_PRACTICE</td>
         <td>IP management</td>
         <td>IP</td>
-        <td>❌</td>
+        <td>not started</td>
       </tr>
       <tr>
         <td>10</td>
         <td>PISCINE CPP</td>
         <td>basics of c++ 00 to 09</td>
         <td>C++</td>
-        <td>❌</td>
+        <td>not started</td>
       </tr>
       <tr>
         <td>11</td>
         <td>INCEPTION</td>
         <td>Setting up a wordpress server with docker-compose</td>
         <td>Docker</td>
-        <td>❌</td>
+        <td>not started</td>
       </tr>
       <tr>
         <td>12</td>
         <td>WEBSERV</td>
         <td>Implementetion of a web server in C++ 98</td>
         <td>C++</td>
-        <td>❌</td>
+        <td>not started</td>
       </tr>
       <tr>
         <td>13</td>
         <td>TRANSCENDENCE</td>
         <td>Web App with the Pong game</td>
         <td>Web</td>
-        <td>❌</td>
+        <td>not started</td>
       </tr>
     </tbody>
   </table>
@@ -199,13 +199,13 @@
         <td>4</td>
         <td>C++ PISCINE</td>
         <td>Intensive introduction to the C++ programming language</td>
-        <td>❌</td>
+        <td>not started</td>
       </tr>
       <tr>
         <td>5</td>
         <td>MINISERV</td>
         <td>Development of a minimal web server in C++</td>
-        <td>❌</td>
+        <td>not started</td>
       </tr>
     </tbody>
   </table>
