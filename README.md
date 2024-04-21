@@ -109,7 +109,7 @@
       <tr>
         <td>9</td>
         <td>NET_PRACTICE</td>
-        <td>IP management</td>
+        <td>Subnetting management</td>
         <td>IP</td>
         <td>in progress</td>
       </tr>
