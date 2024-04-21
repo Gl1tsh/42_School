@@ -104,14 +104,14 @@
         <td><a href="https://github.com/Gl1tsh/cube3D">CUB3D</a></td>
         <td>Wolfenstein game, based on a raycasting algo !</td>
         <td>C</td>
-        <td>in progress</td>
+        <td>✔</td>
       </tr>
       <tr>
         <td>9</td>
         <td>NET_PRACTICE</td>
         <td>IP management</td>
         <td>IP</td>
-        <td>not started</td>
+        <td>in progress</td>
       </tr>
       <tr>
         <td>10</td>
