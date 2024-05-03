@@ -45,14 +45,14 @@
     <tbody>
       <tr>
         <td>1</td>
-        <td><a href="https://github.com/Gl1tsh/Libft">LIBFT</a></td>
+        <td>LIBFT</a></td>
         <td>re-implementations of basics C libraries functions</td>
         <td>C</td>
         <td style="color: green;">✔</td>
       </tr>
       <tr>
         <td>2</td>
-        <td><a href="https://github.com/Gl1tsh/ft_printf">FT_PRINTF</a></td>
+        <td>FT_PRINTF</a></td>
         <td>re-implementations of the printf C function</td>
         <td>C</td>
         <td>✔</td>
@@ -66,42 +66,42 @@
       </tr>
       <tr>
         <td>4</td>
-        <td><a href="https://github.com/Gl1tsh/pipex">PIPEX</a></td>
+        <td>PIPEX</a></td>
         <td>reproduce the behavior of this bash function <br/>`cmd1 < input_file \| cdm2 > output file`</td>
         <td>C</td>
         <td>✔</td>
       </tr>
       <tr>
         <td>5</td>
-        <td><a href="https://github.com/Gl1tsh/42_School/blob/main/README.md">PUSH_SWAP</a></td>
+        <td>PUSH_SWAP</a></td>
         <td>function to sort 2 stacks of numbers</td>
         <td>C</td>
         <td>✔</td>
       </tr>
       <tr>
         <td>5</td>
-        <td><a href="https://github.com/Gl1tsh/so_long_memory">SO_LONG</a></td>
+        <td><a href="https://github.com/Gl1tsh/42_so_long_memory">SO_LONG</a></td>
         <td>2D game</td>
         <td>C</td>
         <td>✔</td>
       </tr>
       <tr>
         <td>6</td>
-        <td><a href="https://github.com/Gl1tsh/my_minishell">MINISHELL</a></td>
+        <td><a href="https://github.com/Gl1tsh/42_minishell">MINISHELL</a></td>
         <td>re-implement a version of bash</td>
         <td>C</td>
         <td>✔</td>
       </tr>
       <tr>
         <td>7</td>
-        <td><a href="https://github.com/Gl1tsh/philosophers">PHILOSOPHERS</a></td>
+        <td><a href="https://github.com/Gl1tsh/42_philosophers">PHILOSOPHERS</a></td>
         <td>introduce the concept of multi-threading</td>
         <td>C</td>
         <td>✔</td>
       </tr>
       <tr>
         <td>8</td>
-        <td><a href="https://github.com/Gl1tsh/cube3D">CUB3D</a></td>
+        <td><a href="https://github.com/Gl1tsh/42_cube3D">CUB3D</a></td>
         <td>Wolfenstein game, based on a raycasting algo !</td>
         <td>C</td>
         <td>✔</td>
