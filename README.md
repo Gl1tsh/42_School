@@ -193,7 +193,7 @@
         <td>3</td>
         <td>MICROSHELL</td>
         <td>Implementation of a simplified version of a shell in C</td>
-        <td>in progress</td>
+        <td>✔</td>
       </tr>
       <tr>
         <td>4</td>
