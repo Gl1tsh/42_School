@@ -80,7 +80,7 @@
       </tr>
       <tr>
         <td>5</td>
-        <td><a href="https://github.com/Gl1tsh/42_so_long_memory">SO_LONG</a></td>
+        <td><a href="https://github.com/Gl1tsh/42_so_long">SO_LONG</a></td>
         <td>2D game</td>
         <td>C</td>
         <td>✔</td>
