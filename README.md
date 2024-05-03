@@ -228,7 +228,11 @@
 <br>
 
 # 42 School Cursus status
-<img src="git_utils/Cursus_circle.png" alt="logo" style="width: 100%">
+
+<p align="center">
+ <img width="1425" alt="cursus_42" src="https://github.com/Gl1tsh/42_School/assets/69108289/14a2dc8b-a991-41f8-b90b-700744cc026d">
+</p>
+
 <!-- ===== cursus 42 picture end ===== -->
 
 
