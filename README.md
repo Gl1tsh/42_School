@@ -59,7 +59,7 @@
       </tr>
       <tr>
         <td>3</td>
-        <td><a href="https://github.com/Gl1tsh/Get_Next_Line">GET_NEXT_LINE</a></td>
+        <td><a href="https://github.com/Gl1tsh/42_Get_Next_Line">GET_NEXT_LINE</a></td>
         <td>reading files line by line</td>
         <td>C</td>
         <td>✔</td>
