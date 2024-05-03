@@ -47,63 +47,63 @@
         <td>1</td>
         <td>LIBFT</a></td>
         <td>re-implementations of basics C libraries functions</td>
-        <td>C</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
         <td style="color: green;">✔</td>
       </tr>
       <tr>
         <td>2</td>
         <td>FT_PRINTF</a></td>
         <td>re-implementations of the printf C function</td>
-        <td>C</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
         <td>✔</td>
       </tr>
       <tr>
         <td>3</td>
         <td><a href="https://github.com/Gl1tsh/42_Get_Next_Line">GET_NEXT_LINE</a></td>
         <td>reading files line by line</td>
-        <td>C</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
         <td>✔</td>
       </tr>
       <tr>
         <td>4</td>
         <td>PIPEX</a></td>
         <td>reproduce the behavior of this bash function <br/>`cmd1 < input_file \| cdm2 > output file`</td>
-        <td>C</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
         <td>✔</td>
       </tr>
       <tr>
         <td>5</td>
         <td>PUSH_SWAP</a></td>
         <td>function to sort 2 stacks of numbers</td>
-        <td>C</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
         <td>✔</td>
       </tr>
       <tr>
         <td>5</td>
         <td><a href="https://github.com/Gl1tsh/42_so_long">SO_LONG</a></td>
         <td>2D game</td>
-        <td>C</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
         <td>✔</td>
       </tr>
       <tr>
         <td>6</td>
         <td><a href="https://github.com/Gl1tsh/42_minishell">MINISHELL</a></td>
         <td>re-implement a version of bash</td>
-        <td>C</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
         <td>✔</td>
       </tr>
       <tr>
         <td>7</td>
         <td><a href="https://github.com/Gl1tsh/42_philosophers">PHILOSOPHERS</a></td>
         <td>introduce the concept of multi-threading</td>
-        <td>C</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
         <td>✔</td>
       </tr>
       <tr>
         <td>8</td>
         <td><a href="https://github.com/Gl1tsh/42_cube3D">CUB3D</a></td>
         <td>Wolfenstein game, based on a raycasting algo !</td>
-        <td>C</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
         <td>✔</td>
       </tr>
       <tr>
@@ -117,28 +117,28 @@
         <td>10</td>
         <td>PISCINE CPP</td>
         <td>basics of c++ 00 to 09</td>
-        <td>C++</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
         <td>not started</td>
       </tr>
       <tr>
         <td>11</td>
         <td>INCEPTION</td>
         <td>Setting up a wordpress server with docker-compose</td>
-        <td>Docker</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="20"/></td>
         <td>not started</td>
       </tr>
       <tr>
         <td>12</td>
-        <td>WEBSERV</td>
-        <td>Implementetion of a web server in C++ 98</td>
-        <td>C++</td>
+        <td>IRC</td>
+        <td>Basic chat application on a web page</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
         <td>not started</td>
       </tr>
       <tr>
         <td>13</td>
         <td>TRANSCENDENCE</td>
         <td>Web App with the Pong game</td>
-        <td>Web</td>
+        <td>🌐 Web</td>
         <td>not started</td>
       </tr>
     </tbody>
