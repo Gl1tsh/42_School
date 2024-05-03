@@ -111,7 +111,7 @@
         <td>NET_PRACTICE</td>
         <td>Subnetting management</td>
         <td>IP</td>
-        <td>in progress</td>
+        <td>✔</td>
       </tr>
       <tr>
         <td>10</td>
